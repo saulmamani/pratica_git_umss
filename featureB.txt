@@ -1,2 +1,3 @@
 Adding line for feature B
 Second line
+adding terth line
