@@ -4,3 +4,4 @@ tercera linea
 cuarta linea
 
 error solucionado
+Segundo error solucionado
